@@ -104,7 +104,7 @@ function App() {
                     value={answer} onChange={(e) => setAnswer(e.target.value)} />
       </Card>
       <Card title="Library">
-        <a href="https://drive.google.com/drive/folders/1W9Ze9WAl5uwpCRk1wtTnjH0mgomHVQO4?usp=sharing">Open library</a>
+        <a href="https://drive.google.com/drive/folders/1W9Ze9WAl5uwpCRk1wtTnjH0mgomHVQO4?usp=sharing" target="_blank">Open library</a>
       </Card>
     </div>
   );
